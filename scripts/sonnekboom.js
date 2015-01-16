@@ -14,12 +14,13 @@ module.exports = function(robot) {
   ];
 
   var IMAGES = [
-    'http://media.giphy.com/media/Le1XxDqjNmgw0.gif',
-    'http://media.giphy.com/media/8sATPKn4IyqYw.gif',
-    'http://media.giphy.com/media/b3u8anVaWFQ9G.gif',
-    'http://media.giphy.com/media/q6gqTKKc1IErC.gif',
-    'http://media.giphy.com/media/5xtDarxQ05ee2ktRA5i.gif',
-    'http://media.giphy.com/media/sO5derwxGq1Z6.gif',
+    'http://i.imgur.com/9ngl7Kl.gif',
+    'http://i.imgur.com/CgQbdAh.gif',
+    'http://i.imgur.com/Y5SR075.gif',
+    'http://i.imgur.com/lGGWWDp.gif',
+    'http://i.imgur.com/7VFpe31.gif',
+    'http://i.imgur.com/DsRjKAu.gif',
+    'http://i.imgur.com/DHnMmMA.gif'
   ]
 
   function randomRemark() {
